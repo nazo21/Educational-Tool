@@ -6,20 +6,20 @@ Docker(video on a crashcourse for it): https://www.youtube.com/watch?v=kTp5xUtca
 
 # Full-Stack MVP Application (Django + React + PostgreSQL + Docker)
 
-#Overview
+## 🚀 Overview
 This project is a containerized full-stack web application built with:
- *Backend:** Django (Python)
- *Frontend:** React (TypeScript)
- *Database:** PostgreSQL
- *Containerization:** Docker & Docker Compose(https://www.youtube.com/watch?v=kTp5xUtcalw)
- *Caching: Integrated for performance optimization 
- *Third-Party APIs: Supported through modular integration
+- **Backend:** Django (Python)
+- **Frontend:** React (TypeScript)
+- **Database:** PostgreSQL
+- **Containerization:** Docker & Docker Compose
+- **Caching:** Integrated for performance optimization
+- **Third-Party APIs:** Supported through modular integration
 
 The system is designed for scalability, modularity, and developer efficiency, using industry-standard development practices and tools.
 
+---
 
-
-#Tech Stack
+## ⚙️ Tech Stack
 
 | Component | Technology |
 |------------|-------------|
@@ -31,9 +31,10 @@ The system is designed for scalability, modularity, and developer efficiency, us
 | Version Control | Git + GitHub |
 | API Requests | Axios (Frontend) / Requests (Backend) |
 
-
+---
 
 ## 🧱 Project Structure (High-Level)
+
 
 
 
