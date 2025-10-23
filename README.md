@@ -42,6 +42,10 @@ The system is designed for scalability, modularity, and developer efficiency, us
 --Machine Learning(Intro): 
 --AI(API)
 
+## Setup for your local Machine
+   Fork the main repo and create a separate branch 
+
+
 
 
 
