@@ -36,11 +36,11 @@ The system is designed for scalability, modularity, and developer efficiency, us
 ## 🧱 Project Structure (High-Level)
 
 ## Outside Resources for Tech Stack
-TypeScript:  https://youtu.be/30LWjhZzg50?si=5zHfh23LeUW6IaKZ
-Django : https://youtu.be/F5mRW0jo-U4?si=G2715d30NH_Y8Ef7
-PostgresSQL: https://youtu.be/37aNpE-9dD4?si=Zd52uMWMj5FItcJH , https://youtu.be/d--mEqEUybA?si=8icmxI6GNuWbczj3
-Machine Learning(Intro): 
-AI(API)
+--TypeScript:  https://youtu.be/30LWjhZzg50?si=5zHfh23LeUW6IaKZ
+--Django : https://youtu.be/F5mRW0jo-U4?si=G2715d30NH_Y8Ef7
+--PostgresSQL: https://youtu.be/37aNpE-9dD4?si=Zd52uMWMj5FItcJH , https://youtu.be/d--mEqEUybA?si=8icmxI6GNuWbczj3
+--Machine Learning(Intro): 
+--AI(API)
 
 
 
